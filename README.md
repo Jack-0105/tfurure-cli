@@ -1,0 +1,4 @@
+- 第一步
+  - npm i @tfuture/cli@latest -g
+- 第二部
+  - tfuture init xxx
